@@ -1,6 +1,6 @@
 # xylophone App
 
-It's an app like a magical 8 ball that can answer all of life's tricky questions. A button can be pressed to modify the ball's color.
+an app for music that simulates xylophone sounds. This will enable every Beethoven to reach their full musical potential wherever they may be.
 
 ## xylophone App Preview
 
